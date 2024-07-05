@@ -17,23 +17,25 @@ dan fungsionalitas yang komprehensif untuk menyediakan pengalaman berbelanja yan
 
 ![image](https://github.com/ndrapril/Aplikasi-Laptop-Store/assets/127018056/8ffc84aa-771e-40d9-97fe-3012293abbb9)
 
+
 **Tampilan Register**
 
-![2](https://github.com/2106097/Aplikasi-Laptop-Store/assets/127018056/424a5436-3950-4230-a484-86b197b5a8a1)
+![image](https://github.com/2106097/Aplikasi-Laptop-Store/assets/127018056/c362e143-bcc4-4802-b8a3-ce2837e987ca)
+
 
 **Tampilan Utama** 
 
-![3](https://github.com/2106097/Aplikasi-Laptop-Store/assets/127018056/341b9be3-2caa-453f-8f79-b77cc8aa3b77)
+![image](https://github.com/2106097/Aplikasi-Laptop-Store/assets/127018056/cc9a5d50-dedf-49f6-b486-c73a4b18c156)
 
 
 **Tampilan Profil**
 
-![4](https://github.com/2106097/Aplikasi-Laptop-Store/assets/127018056/c6e22f83-80e5-46f8-9ace-dca2bc1f0a8f)
+![image](https://github.com/2106097/Aplikasi-Laptop-Store/assets/127018056/4ba16fbf-ed92-40e0-9237-56d074163e69)
 
 
 **Tampilan Keranjang**
 
-![5](https://github.com/2106097/Aplikasi-Laptop-Store/assets/127018056/4b742ad7-3574-45c2-b683-2ea4cfed3a17)
+![image](https://github.com/2106097/Aplikasi-Laptop-Store/assets/127018056/32550f50-2407-4c61-95af-68b4d17289f9)
 
 
 **Teknologi yang Digunakan**
