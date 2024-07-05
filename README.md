@@ -1,7 +1,7 @@
 **Anggota Kelompok:**
 - Gilang Gumelar 2106097
-- Moch Ab Rizky 2106041
 - Mita Tri Andari 2106049
+- Moch Ab Rizky 2106041
 
 **Pengertian Aplikasi Laptop Store**
 
